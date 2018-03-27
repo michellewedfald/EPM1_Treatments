@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "TreatmentsDataAnalysis", "MultidimensionalProject1\TreatmentsDataAnalysis.dwproj", "{7FB0868F-959A-4CE9-9B76-6BF0F153C53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB0868F-959A-4CE9-9B76-6BF0F153C53B}.Development|Default.ActiveCfg = Development
+		{7FB0868F-959A-4CE9-9B76-6BF0F153C53B}.Development|Default.Build.0 = Development
+		{7FB0868F-959A-4CE9-9B76-6BF0F153C53B}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7BD3828-3C27-430E-ADE8-53E623EA9005}
+	EndGlobalSection
+EndGlobal
